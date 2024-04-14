@@ -12,6 +12,7 @@ The aim of this project was to apply all the fundementals of programming delieve
 
 
 ## Features
+
 **1. Task Creation:** Users can create new tasks with titles, descriptions, due dates, and assign them to specific users.
 **2. Task Editing:** Users can edit existing tasks to update their titles, descriptions, due dates, or assigned users.
 **3. Task Completion:** Tasks can be marked as complete or incomplete based on the user's progress.
