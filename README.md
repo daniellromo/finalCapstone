@@ -13,12 +13,12 @@ The aim of this project was to apply all the fundementals of programming delieve
 
 ## Features
 
-**1. Task Creation:** Users can create new tasks with titles, descriptions, due dates, and assign them to specific users. 
-**2. Task Editing:** Users can edit existing tasks to update their titles, descriptions, due dates, or assigned users. 
-**3. Task Completion:** Tasks can be marked as complete or incomplete based on the user's progress. 
-**4. Task Overview:** Users can view a summary of their tasks, including the total number of tasks assigned, completed tasks, incomplete tasks, and overdue tasks. 
-**5. User Registration:** New users can register accounts by providing a username and password. 
-**6. Data Persistence:** Task and user data are stored in text files for persistence across sessions. 
+**1. Task Creation:** Users can create new tasks with titles, descriptions, due dates, and assign them to specific users.  
+**2. Task Editing:** Users can edit existing tasks to update their titles, descriptions, due dates, or assigned users.  
+**3. Task Completion:** Tasks can be marked as complete or incomplete based on the user's progress.  
+**4. Task Overview:** Users can view a summary of their tasks, including the total number of tasks assigned, completed tasks, incomplete tasks, and overdue tasks.  
+**5. User Registration:** New users can register accounts by providing a username and password.  
+**6. Data Persistence:** Task and user data are stored in text files for persistence across sessions.  
 
 
 ## Installation
